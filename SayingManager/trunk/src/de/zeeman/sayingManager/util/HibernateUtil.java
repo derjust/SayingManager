@@ -1,5 +1,6 @@
 package de.zeeman.sayingManager.util;
 
+
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.AnnotationConfiguration;
 

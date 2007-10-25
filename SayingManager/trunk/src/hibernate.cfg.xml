@@ -30,6 +30,7 @@
 
         <mapping class="de.zeeman.sayingManager.data.Saying"/>
         <mapping class="de.zeeman.sayingManager.data.Author"/>
+        <mapping class="de.zeeman.sayingManager.data.Picture"/>
 
     </session-factory>
 
